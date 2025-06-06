@@ -10,7 +10,6 @@ export const metadata: Metadata = {
   title: "Vidya AI - Your AI Learning Companion",
   description:
     "Advanced AI-powered educational platform with personalized tutoring, interactive features, and comprehensive learning tools.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
