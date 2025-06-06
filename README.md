@@ -1,6 +1,6 @@
 # 📚 Vidya AI – Your Personal AI Learning Companion
 
-![Vidya AI Banner](https://yourdomain.com/banner.png)
+![Vidya AI Banner](https://github.com/Tanmay-Tiwaricyber/Vidya-Ai/blob/main/vidya-ai-banner.png?raw=true)
 
 Vidya AI is an intelligent, all-in-one learning assistant that empowers students with instant answers, study planning, personalized quizzes, flashcards, visual explainers, and more — all powered by AI.
 
